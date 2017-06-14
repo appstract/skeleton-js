@@ -1,0 +1,7 @@
+{
+    "extends": "appstract",
+    "env": {
+        "browser": true,
+        "node": true
+    }
+}
